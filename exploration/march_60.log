@@ -1,0 +1,15 @@
+c down fraction = 0.020 and down exponent = 0.300
+c cubes are emitted to cubes_60_d12.icnf
+c full lookahead due to high density!
+c the DIMACS p-line indicates a CNF of 97779 variables and 2506963 clauses.
+c equivalence reasoning is turned off.
+c clause-length heuristic with magic constants: bin = 25.00 and dec = 0.50
+c init_lookahead: longest clause has size 15
+c number of free variables = 97779
+c highest active variable  = 97779
+c dynamic_preselect_setsize :: off
+c reallocating memory to 15000018
+c reallocating memory to 22500043
+c reallocating memory to 33750075
+c reallocating memory to 50625115
+c |----------------------------------------------------------------|cc |**c |****c |*****c |******c |********c |*********c |**********c |***********c |************c |*************c |**************c |***************c |****************c |*****************c |******************c |*******************c |********************c |*********************c |**********************c |***********************c |************************c |*************************c |**************************c |***************************

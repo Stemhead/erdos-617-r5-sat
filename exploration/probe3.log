@@ -1,0 +1,4 @@
+    15.0s sizes=(6, 5, 5, 5, 5) E=59 vars=148551 clauses=2742876 -> UNSAT 2.0s
+    15.4s sizes=(6, 5, 5, 5, 5) E=60 vars=149833 clauses=2745446 -> UNSAT 2.1s
+    15.5s sizes=(6, 5, 5, 5, 5) E=65 vars=155839 clauses=2757490 -> UNSAT 2.1s
+DONE

@@ -1,0 +1,39 @@
+N=25 T=50 Emax=60: 317 cubes
+    16.8s N=25 sizes=(5, 5, 5, 5, 5) E=54 vars=127380 clauses=2156283 -> UNSAT 3.2s
+    19.8s N=25 sizes=(5, 5, 5, 5, 5) E=56 vars=129740 clauses=2161015 -> UNSAT 2.8s
+    20.2s N=25 sizes=(5, 5, 5, 5, 5) E=50 vars=122669 clauses=2146835 -> UNSAT 2.9s
+    20.4s N=25 sizes=(5, 5, 5, 5, 5) E=51 vars=123912 clauses=2149327 -> UNSAT 2.8s
+    20.7s N=25 sizes=(5, 5, 5, 5, 5) E=58 vars=131865 clauses=2165279 -> UNSAT 3.0s
+    20.8s N=25 sizes=(5, 5, 5, 5, 5) E=52 vars=125141 clauses=2151791 -> UNSAT 2.9s
+    20.8s N=25 sizes=(5, 5, 5, 5, 5) E=53 vars=126179 clauses=2153875 -> UNSAT 2.8s
+    20.9s N=25 sizes=(5, 5, 5, 5, 5) E=57 vars=130720 clauses=2162983 -> UNSAT 2.9s
+    20.9s N=25 sizes=(5, 5, 5, 5, 5) E=55 vars=128567 clauses=2158663 -> UNSAT 2.8s
+    35.9s N=25 sizes=(5, 5, 5, 5, 5) E=59 vars=132996 clauses=2167547 -> UNSAT 2.9s
+    37.3s N=25 sizes=(6, 5, 5, 5, 4) E=52 vars=125143 clauses=2151796 -> UNSAT 2.9s
+    37.3s N=25 sizes=(6, 5, 5, 5, 4) E=51 vars=123913 clauses=2149330 -> UNSAT 2.8s
+    37.8s N=25 sizes=(5, 5, 5, 5, 5) E=60 vars=134113 clauses=2169787 -> UNSAT 2.8s
+    38.6s N=25 sizes=(6, 5, 5, 5, 4) E=53 vars=126182 clauses=2153882 -> UNSAT 2.6s
+    39.7s N=25 sizes=(6, 5, 5, 5, 4) E=56 vars=129746 clauses=2161028 -> UNSAT 2.4s
+    39.7s N=25 sizes=(6, 5, 5, 5, 4) E=57 vars=130727 clauses=2162998 -> UNSAT 2.4s
+    40.1s N=25 sizes=(6, 5, 5, 5, 4) E=55 vars=128572 clauses=2158674 -> UNSAT 2.2s
+    40.1s N=25 sizes=(6, 5, 5, 5, 4) E=54 vars=127384 clauses=2156292 -> UNSAT 2.1s
+    54.2s N=25 sizes=(6, 5, 5, 5, 4) E=58 vars=131873 clauses=2165296 -> UNSAT 3.1s
+    54.3s N=25 sizes=(6, 5, 5, 5, 4) E=60 vars=134123 clauses=2169808 -> UNSAT 3.1s
+    54.8s N=25 sizes=(6, 5, 5, 5, 4) E=59 vars=133005 clauses=2167566 -> UNSAT 3.2s
+    55.6s N=25 sizes=(6, 6, 5, 4, 4) E=51 vars=123914 clauses=2149333 -> UNSAT 2.9s
+    56.4s N=25 sizes=(6, 6, 5, 4, 4) E=52 vars=125145 clauses=2151801 -> UNSAT 2.7s
+    57.5s N=25 sizes=(6, 6, 5, 4, 4) E=54 vars=127388 clauses=2156301 -> UNSAT 2.5s
+    57.5s N=25 sizes=(6, 6, 5, 4, 4) E=53 vars=126185 clauses=2153889 -> UNSAT 2.6s
+    57.8s N=25 sizes=(6, 6, 5, 4, 4) E=55 vars=128577 clauses=2158685 -> UNSAT 2.3s
+    58.4s N=25 sizes=(6, 6, 5, 4, 4) E=56 vars=129752 clauses=2161041 -> UNSAT 2.1s
+    73.2s N=25 sizes=(6, 6, 5, 4, 4) E=57 vars=130734 clauses=2163013 -> UNSAT 3.5s
+    73.3s N=25 sizes=(6, 6, 5, 4, 4) E=58 vars=131881 clauses=2165313 -> UNSAT 3.6s
+    73.7s N=25 sizes=(6, 6, 5, 4, 4) E=59 vars=133014 clauses=2167585 -> UNSAT 3.6s
+    74.8s N=25 sizes=(6, 6, 5, 4, 4) E=60 vars=134133 clauses=2169829 -> UNSAT 3.5s
+    75.9s N=25 sizes=(6, 6, 5, 5, 3) E=52 vars=125147 clauses=2151806 -> UNSAT 2.9s
+    76.7s N=25 sizes=(6, 6, 5, 5, 3) E=55 vars=128582 clauses=2158696 -> UNSAT 2.6s
+    77.2s N=25 sizes=(6, 6, 5, 5, 3) E=54 vars=127392 clauses=2156310 -> UNSAT 2.4s
+    77.7s N=25 sizes=(6, 6, 5, 5, 3) E=53 vars=126188 clauses=2153896 -> UNSAT 2.2s
+    78.1s N=25 sizes=(6, 6, 5, 5, 3) E=56 vars=129758 clauses=2161054 -> UNSAT 2.2s
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/multiprocessing/resource_tracker.py:475: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown: {'/mp-bxh7y96c', '/mp-xc3b_1na', '/mp-wkg893bt', '/mp-wcwp87du', '/mp-ntufx7_1', '/mp-bd22i2vs'}
+  warnings.warn(

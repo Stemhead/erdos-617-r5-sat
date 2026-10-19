@@ -1,0 +1,12 @@
+{
+ "('low', (5, 5, 4, 4, 3), 39)": {
+  "solver": "cadical 3.0.1 (standalone, binary DRAT)",
+  "result": "UNSAT",
+  "proof_bytes": 12436295212,
+  "proof_sha256": "7609ee12ebe2f78c019b0e59d1e2916ab777a22f5c16ad3b582e10a5e0366913",
+  "drat_trim": "s VERIFIED",
+  "verification_seconds": 14636.8,
+  "lemmas": 76531330,
+  "core_lemmas": 27670752
+ }
+}

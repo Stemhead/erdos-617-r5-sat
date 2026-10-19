@@ -1,0 +1,4 @@
+4 cubes
+   248.2s sizes=(6, 5, 5, 5, 5) E=59 -> UNSAT 236.4s
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/multiprocessing/resource_tracker.py:475: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown: {'/mp-_pjyaqrs', '/mp-l3gx2641', '/mp-ta666rm4', '/mp-xy50ve_0', '/mp-v0az4_k4', '/mp-jn8gbx_y'}
+  warnings.warn(

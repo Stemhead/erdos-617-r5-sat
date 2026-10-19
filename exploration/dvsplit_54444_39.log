@@ -1,0 +1,40 @@
+10626 degree vectors
+    38.9s 100/10626 last dv=(0, 0, 5, 4, 11) 0.5s max=0.5s
+    77.2s 200/10626 last dv=(0, 0, 13, 4, 3) 0.3s max=0.5s
+   115.5s 300/10626 last dv=(0, 1, 3, 11, 5) 0.3s max=0.5s
+   153.7s 400/10626 last dv=(0, 1, 11, 3, 5) 0.3s max=0.5s
+   191.9s 500/10626 last dv=(0, 2, 3, 4, 11) 0.3s max=0.5s
+   229.8s 600/10626 last dv=(0, 2, 11, 4, 3) 0.3s max=0.5s
+   268.0s 700/10626 last dv=(0, 3, 4, 2, 11) 0.3s max=0.5s
+   307.0s 800/10626 last dv=(0, 3, 16, 0, 1) 0.3s max=0.5s
+   345.0s 900/10626 last dv=(0, 4, 6, 10, 0) 0.3s max=0.6s
+   382.8s 1000/10626 last dv=(0, 5, 2, 13, 0) 0.3s max=0.6s
+   420.9s 1100/10626 last dv=(0, 6, 0, 8, 6) 0.3s max=0.6s
+   459.1s 1200/10626 last dv=(0, 6, 10, 3, 1) 0.3s max=0.6s
+   497.1s 1300/10626 last dv=(0, 7, 8, 4, 1) 0.3s max=0.6s
+   535.2s 1400/10626 last dv=(0, 8, 9, 2, 1) 0.3s max=0.6s
+   573.9s 1500/10626 last dv=(0, 10, 1, 3, 6) 0.3s max=0.6s
+   612.2s 1600/10626 last dv=(0, 11, 6, 3, 0) 0.3s max=0.6s
+   650.8s 1700/10626 last dv=(0, 14, 1, 5, 0) 0.3s max=0.6s
+   689.2s 1800/10626 last dv=(1, 0, 1, 8, 10) 0.3s max=0.6s
+   727.2s 1900/10626 last dv=(1, 0, 7, 9, 3) 0.3s max=0.6s
+   765.7s 2000/10626 last dv=(1, 1, 0, 18, 0) 0.3s max=0.6s
+   803.6s 2100/10626 last dv=(1, 1, 7, 6, 5) 0.3s max=0.6s
+   842.0s 2200/10626 last dv=(1, 2, 1, 10, 6) 0.3s max=0.6s
+   880.5s 2300/10626 last dv=(1, 2, 9, 6, 2) 0.3s max=0.6s
+  1369.1s 2350/10626 last dv=(1, 3, 0, 3, 13) 84.2s max=84.2s
+  1369.1s 2352/10626 last dv=(1, 3, 0, 5, 11) 361.9s max=361.9s
+  1376.6s 2353/10626 last dv=(1, 3, 0, 10, 6) 69.1s max=361.9s
+  1376.6s 2354/10626 last dv=(1, 3, 0, 11, 5) 77.8s max=361.9s
+  1376.6s 2355/10626 last dv=(1, 3, 0, 12, 4) 319.2s max=361.9s
+  1445.0s 2357/10626 last dv=(1, 3, 0, 6, 10) 75.9s max=361.9s
+  1445.0s 2358/10626 last dv=(1, 3, 0, 7, 9) 69.8s max=361.9s
+  1445.0s 2359/10626 last dv=(1, 3, 0, 8, 8) 386.4s max=386.4s
+  1577.9s 2361/10626 last dv=(1, 3, 1, 13, 2) 182.6s max=386.4s
+  2674.8s 2367/10626 last dv=(1, 3, 1, 3, 12) 1651.5s max=1651.5s
+  2674.8s 2368/10626 last dv=(1, 3, 1, 4, 11) 94.4s max=1651.5s
+  3010.7s 2370/10626 last dv=(1, 3, 2, 2, 12) 59.7s max=1651.5s
+  3010.7s 2371/10626 last dv=(1, 3, 2, 3, 11) 220.9s max=1651.5s
+  3010.7s 2372/10626 last dv=(1, 3, 2, 4, 10) 1259.8s max=1651.5s
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/multiprocessing/resource_tracker.py:475: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown: {'/mp-iitr4jlp', '/mp-e_ps2ng5', '/mp-5l3x7kb9', '/mp-rzhtft68', '/mp-78vuc1gb', '/mp-kvjdf34l'}
+  warnings.warn(

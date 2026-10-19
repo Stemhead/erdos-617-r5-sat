@@ -1,0 +1,3 @@
+34 sub-cubes
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/multiprocessing/resource_tracker.py:475: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown: {'/mp-7o0ye65o', '/mp-ml5a56vg', '/mp-w5plqfei', '/mp-k5411jja', '/mp-mixtby4w', '/mp-487114he'}
+  warnings.warn(
