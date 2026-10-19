@@ -1,5 +1,9 @@
 # Erdős Problem #617, the case r = 5: a SAT-based proof with checked certificates
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23485982.svg)](https://doi.org/10.5281/zenodo.23485982)
+
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23485982 (concept DOI, always resolves to the latest version).
+
 **Statement proved.** Every colouring of the edges of the complete graph K₂₆ with five colours contains six
 vertices among whose fifteen edges at least one colour is missing. Equivalently, in the notation of
 complementary / weakened Ramsey numbers, R̄(6,6,6,6,6) = 26 (the affine plane AG(2,5) gives the matching
