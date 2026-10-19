@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Erdős Problem #617, the case r = 5: a SAT-based proof with checked certificates"
+message: "If you use this, cite the repository. The work is AI-authored (Claude Fable 5.1, operated by Glen Howell); see AI_DISCLOSURE.md."
+type: software
+authors:
+  - family-names: Howell
+    given-names: Glen
+repository-code: "https://github.com/Stemhead/erdos-617-r5-sat"
+license: MIT
+date-released: 2026-10-19

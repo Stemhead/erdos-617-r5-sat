@@ -1,0 +1,18 @@
+{
+  "title": "Erdős Problem #617, the case r = 5: a SAT-based proof with checked certificates",
+  "upload_type": "software",
+  "description": "<p>Every 5-colouring of the edges of K<sub>26</sub> contains six vertices among whose edges at least one colour is missing (R&#772;(6,6,6,6,6) = 26), the r = 5 instance of the Erdős–Gyárfás conjecture (erdosproblems.com/617). Hand reduction to K<sub>21</sub> (Lemma A, Brooks' theorem), Füredi's stability theorem for structure, 117 SAT instances, all unsatisfiable; 116 with DRAT proofs checked by drat-trim, one (the hardest) by solver verdict only.</p><p><b>Not a first proof.</b> Five AI-assisted proofs of the same statement were posted in July 2026 (Sneiderman; Silverstein; Kara, Lean-verified; Rose; Winter, Lean-verified); this is an independent confirmation by a different route. No priority is claimed. The all-r conjecture remains open. Nothing here has been refereed.</p><p><b>AI disclosure:</b> the mathematics, code and text were produced by Claude (Anthropic, Claude Fable 5.1) in Claude Code, operated by Glen Howell, who supplied the machine and the decision to publish and did not contribute or review mathematical content. See AI_DISCLOSURE.md.</p><p>The 117 CNF instances (194 MB, xz) are attached to the GitHub release.</p>",
+  "creators": [
+    {"name": "Howell, Glen"}
+  ],
+  "contributors": [
+    {"name": "Claude Fable 5.1 (Anthropic)", "type": "Other"}
+  ],
+  "keywords": ["Erdős problems", "Ramsey theory", "edge colouring", "SAT", "DRAT", "computer-assisted proof", "Erdős–Gyárfás conjecture"],
+  "license": "MIT",
+  "related_identifiers": [
+    {"identifier": "https://www.erdosproblems.com/617", "relation": "isSupplementTo", "resource_type": "other"},
+    {"identifier": "10.5281/zenodo.21535385", "relation": "isSupplementedBy", "resource_type": "publication-preprint"}
+  ],
+  "notes": "Independent confirmation, by SAT with checked certificates, of the fixed r = 5 case of Erdős Problem 617. AI-authored; not refereed."
+}
